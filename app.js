@@ -46,5 +46,5 @@ app.get('/productdelete',function(req,res){
 })
 
 
-app.listen(3003,'127.0.0.1');
+app.listen(3003);
 
